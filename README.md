@@ -19,9 +19,15 @@ Introduction on how to save models with Pickle and Flask, how to manage dependen
 ## [Chapter 5: Decision Trees and Ensemble Learning](https://github.com/marcosbenicio/ML_BookCamp/tree/main/05DecisionTrees)
 Project for predicting the risk of default with tree-based models (**Decision tree, Random Forest, and XGBoost**).
 
+# Statistics Review
+
+## [Chapter 6: Exploratory Data Analysis](https://github.com/marcosbenicio/ML_BookCamp/tree/main/05DecisionTrees)
+understanding essential statistical metrics, exploration of relationships between features, and implementation of visualization techniques for insightful data interpretation.
+
 # Reference
 - [Data Mining and Machine Learning - Mohammed J. Zaki, Wagner Meira](https://dataminingbook.info/)
 - [Machine Learning Bookcamp - Alexey Grigorev](https://mlbookcamp.com/)
 - [Probability Theory: A Concise Course - Y.A. Rozanov](https://www.google.com.br/books/edition/Probability_Theory/jKKctfJHtwYC?hl=en&gbpv=1&printsec=frontcover)
+- [Pratical Statistics for Data Scientists - Peter Bruce, Andrew Bruce](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
 
 
