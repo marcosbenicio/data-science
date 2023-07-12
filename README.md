@@ -24,7 +24,7 @@ Project for predicting the risk of default with tree-based models (**Decision tr
 ## [Chapter 6: Exploratory Data Analysis](https://github.com/marcosbenicio/ML_BookCamp/tree/main/05DecisionTrees)
 understanding essential statistical metrics, exploration of relationships between features, and implementation of visualization techniques for insightful data interpretation.
 
-## [Chapter 7: Exploratory Data Analysis](https://github.com/marcosbenicio/ML_BookCamp/tree/main/07Sampling)
+## [Chapter 7: Data and Sampling Distributions](https://github.com/marcosbenicio/ML_BookCamp/tree/main/07Sampling)
 
 
 # Reference
